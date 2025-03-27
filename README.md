@@ -107,11 +107,7 @@ Contributions and suggestions are welcome! Feel free to fork the repo and submit
 
 ---
 
-## 📞 Contact
 
-If you have any questions or suggestions, reach out to:  
-💎 **your.email@example.com**  
-🔗 [GitHub Profile](https://github.com/yourusername)
 
 ---
 
